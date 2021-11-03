@@ -18,6 +18,8 @@ The data as described by Myles O'Neill is:
 ## SP Atk: special attack, the base modifier for special attacks (e.g. fire blast, bubble beam)
 ## SP Def: the base damage resistance against special attacks
 ## Speed: determines which pokemon attacks first each round
+## Speed: determines which pokemon attacks first each round
+
 
 The data for this table has been acquired from several different sites, including:
 
